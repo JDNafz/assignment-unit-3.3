@@ -72,3 +72,4 @@ while (leftOverParts > 6) {
     leftOverParts -= 7;
 };
 console.log(`${boxesFilled} boxes were filled and ${leftOverParts} were left over.`);
+
